@@ -1,2 +1,1 @@
-# gmod-lua-scripts
-Scripts LUA que hice, así de random.
+Estos son scripts que hice por aburrimiento, todavía estoy aprendiendo :P
